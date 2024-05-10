@@ -10,7 +10,7 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-{
+*{
     font-weight: 400;
 }
 
@@ -50,7 +50,7 @@ body{
     width: 70%;
 }
 
-#campo-senha: focus{
+#campo-senha focus{
     outline: none;
 }
 
